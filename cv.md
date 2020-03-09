@@ -1,4 +1,4 @@
-#! Important: write your Resume in English if you can, if possible
+# ! Important: write your Resume in English if you can, if possible
 
 1. First Name, Last Name (real ones)
 2. Contact Info (add several ways to contact you)
